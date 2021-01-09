@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/home/joshua/.local/share/virtualenvs/lead-management-website-0v4vQZI_",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true
+}
